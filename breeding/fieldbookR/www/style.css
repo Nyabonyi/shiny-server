@@ -1,0 +1,12 @@
+image.resize {
+  max-width:20%;
+  max-height:20%;
+}
+
+
+img {
+  transition: transform 0.25s ease;;
+}
+img:hover {
+  transform: scale(1.5);
+}
